@@ -1,0 +1,5 @@
+[alias]
+        b = branch
+        lg = log --decorate
+        pso = push origin
+
